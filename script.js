@@ -6,7 +6,7 @@ root.append(p);
 
 let zzz = document.createElement("button");
 zzz.innerText = "zzz";
-zzz.addEventListener("Click", handleOnClickEvent);
+zzz.addEventListener("click", handleOnClickEvent);
 root.append(zzz);
 
 
